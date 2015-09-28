@@ -11,8 +11,8 @@ announcement_form_visible_until: Au
 announcements_list: 'Liste des annonces'
 at: à
 by: par
-created_on: 'Créée le'
+created_on: 'Créé le'
 create_new_announcement: 'Ajouter une annonce'
-published_on: 'Publiée le'
+published_on: 'Publié le'
 visible_from_until_condition: 'La date de fin doit se situer après la date de début'
 notify_user: "Notifier l'utilisateur"
